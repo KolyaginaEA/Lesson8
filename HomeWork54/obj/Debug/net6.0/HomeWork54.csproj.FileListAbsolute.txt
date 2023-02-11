@@ -1,0 +1,15 @@
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\bin\Debug\net6.0\HomeWork54.exe
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\bin\Debug\net6.0\HomeWork54.deps.json
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\bin\Debug\net6.0\HomeWork54.runtimeconfig.json
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\bin\Debug\net6.0\HomeWork54.dll
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\bin\Debug\net6.0\HomeWork54.pdb
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\obj\Debug\net6.0\HomeWork54.csproj.AssemblyReference.cache
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\obj\Debug\net6.0\HomeWork54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\obj\Debug\net6.0\HomeWork54.AssemblyInfoInputs.cache
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\obj\Debug\net6.0\HomeWork54.AssemblyInfo.cs
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\obj\Debug\net6.0\HomeWork54.csproj.CoreCompileInputs.cache
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\obj\Debug\net6.0\HomeWork54.dll
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\obj\Debug\net6.0\refint\HomeWork54.dll
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\obj\Debug\net6.0\HomeWork54.pdb
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\obj\Debug\net6.0\HomeWork54.genruntimeconfig.cache
+C:\Users\e.kolyagina\Desktop\Обучение\LESSON8\HomeWork54\obj\Debug\net6.0\ref\HomeWork54.dll
